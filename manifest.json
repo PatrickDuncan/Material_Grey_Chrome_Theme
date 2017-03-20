@@ -1,0 +1,37 @@
+{
+   "description": "Beautiful flat theme with grey colours from the official Material Design palette.",
+   "manifest_version": 2,
+   "name": "Material - Grey",
+   "theme": {
+      "colors": {
+         "bookmark_text": [ 0, 0, 0 ],
+         "frame": [ 27, 27, 27 ],
+         "ntp_background": [ 40, 40, 40 ],
+         "ntp_header": [ 250, 250, 250 ],
+         "ntp_link": [ 0, 0, 0 ],
+         "ntp_section": [ 35, 35, 35 ],
+         "ntp_section_link": [ 0, 0, 0 ],
+         "ntp_section_text": [ 0, 0, 0 ],
+         "ntp_text": [ 250, 250, 250 ],
+         "tab_background_text": [ 250, 250, 250 ],
+         "tab_text": [ 0, 0, 0 ],
+         "toolbar": [ 189, 189, 189 ]
+      },
+      "images": {
+         "theme_button_background": "images/theme_button_background.png",
+         "theme_frame": "images/theme_frame.png",
+         "theme_ntp_background": "images/theme_ntp_background.png",
+         "theme_tab_background": "images/theme_tab_background.png",
+         "theme_toolbar": "images/theme_toolbar.png"
+      },
+      "properties": {
+         "ntp_background_alignment": "center",
+         "ntp_background_repeat": "no-repeat",
+         "ntp_logo_alternate": 0
+      },
+      "tints": {
+         "buttons": [ 0, 0, 0 ]
+      }
+   },
+   "version": "1.0"
+}
